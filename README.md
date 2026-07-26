@@ -1,0 +1,2 @@
+# Three-decades-of-urban-growth-reshapes-Sydney-s-thermal-environment-and-heat-stress-exposure
+This repository contains the analysis workflows, Python scripts, and plotting routines used in the study “Three decades of urban growth reshapes Sydney’s thermal environment and heat stress exposure”. The analyses are based on seven annual convection-permitting WRF-Comfort simulations (1990–2020) with time-evolving Local Climate Zone (LCZ).
